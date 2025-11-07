@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**medhabibdridi/medhabibdridi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Your Name -->
+# [Mohamed Habib Dridi]
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, world! 👋 I'm a passionate Senior Software Engineer Based in Munich, Germany with around 5 years of experience. Welcome to my GitHub profile.
+
+### About Me
+
+I’m a software engineer with experience across the entire technology stack—from building scalable cloud infrastructure and robust backend systems to creating intuitive frontend experiences. My approach goes beyond just writing code: I see myself as a problem solver who uses technology as a tool to deliver practical, meaningful solutions
+
+### My Tech Stack
+
+Here are some of the technologies I'm experienced with:
+
+- 💻 Programming Languages: [Java, JavaScript, Python]
+- 🌐 Web Development: [Spring Boot, Django, Angular]
+- 📱 Mobile App Development: [Tools]
+- 🧪 Databases: [PostgreSQL ,MySQL,MongoDB]
+- ⚙️ DevOps & Cloud: [Docker,Jenkins,Gitlab]
+- 🛠️ Other: [Git,GitHub,Scrum]
+
+
+### Let's Connect
+
+If you share my interests or want to collaborate on a project, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dalibouali/) . I'm always open to interesting discussions and new opportunities.
+
+
+
+Thanks for visiting my GitHub profile! Have a great day! 🚀
