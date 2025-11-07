@@ -23,8 +23,6 @@ Here are some of the technologies I'm experienced with:
 
 ### Let's Connect
 
-If you share my interests or want to collaborate on a project, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dalibouali/) . I'm always open to interesting discussions and new opportunities.
-
 
 
 Thanks for visiting my GitHub profile! Have a great day! 🚀
