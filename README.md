@@ -1,11 +1,3 @@
----
-
-<div align="center">
-	<b>Checkout my LinkedIn:</b> <a href="https://www.linkedin.com/in/mohamed-habib-dridi-708a881a2/">Mohamed Habib Dridi</a>
-</div>
----
-
-
 
 <div align="center">
 	<h1>Mohamed Habib Dridi</h1>
