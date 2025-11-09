@@ -16,6 +16,11 @@ I'm Mohamed Habib Dridi, a software engineer based in Germany with 5 years of pr
 
 I love connecting with others in the tech community, collaborating on projects, and exploring new ideas and perspectives.
 
+<h2>Stats</h2>
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=medhabibdridi&theme=dark" alt="GitHub Streak" />
+
 <h2>🛠 Tech Stack</h2>
 
 <b>Frontend:</b><br>
