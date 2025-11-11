@@ -1,5 +1,3 @@
-![Top Langs](https://readme-stats-clone-pi.vercel.app/api/top-langs/?username=medhabibdridi&stats_format=bytes)
-
 <div align="center">
 	<h1>Mohamed Habib Dridi</h1>
 	<p><strong>Software Engineer | 5+ Years Experience | Based in Germany 🇩🇪</strong></p>
@@ -16,13 +14,6 @@ I'm Mohamed Habib Dridi, a software engineer based in Germany with 5 years of pr
 **Open to work and freelance opportunities!**
 
 I love connecting with others in the tech community, collaborating on projects, and exploring new ideas and perspectives.
-
-<h2>Stats</h2>
-
-
-![GitHub Stats](https://readme-stats-clone-pi.vercel.app/api?username=medhabibdridi&show_icons=true&theme=transparent&count_private=true)
-
-![Top Langs](https://readme-stats-clone-pi.vercel.app/api/top-langs/?username=medhabibdridi&stats_format=bytes)
 
 <h2>🛠 Tech Stack</h2>
 
