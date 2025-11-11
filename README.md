@@ -1,3 +1,4 @@
+![Top Langs](https://readme-stats-clone-pi.vercel.app/api/top-langs/?username=medhabibdridi&stats_format=bytes)
 
 <div align="center">
 	<h1>Mohamed Habib Dridi</h1>
@@ -19,7 +20,9 @@ I love connecting with others in the tech community, collaborating on projects, 
 <h2>Stats</h2>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=medhabibdridi&theme=dark" alt="GitHub Streak" />
+![GitHub Stats](https://readme-stats-clone-pi.vercel.app/api?username=medhabibdridi&show_icons=true&theme=transparent&count_private=true)
+
+![Top Langs](https://readme-stats-clone-pi.vercel.app/api/top-langs/?username=medhabibdridi&stats_format=bytes)
 
 <h2>🛠 Tech Stack</h2>
 
